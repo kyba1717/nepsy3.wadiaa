@@ -43,15 +43,15 @@ const ALL_TESTS = [
   { testKey: "test1-8", title: "اختبار الإدراك السمعي 1" },
   { testKey: "test1-9", title: "اختبار الإدراك السمعي 2" },
   { testKey: "test1-10", title: "اختبار الإدراك السمعي 3" },
-  { testKey: "test1-11", title: "اختبار الإدراك البصري 1" },
-  { testKey: "test1-12", title: "اختبار الإغلاق البصري 2" },
-  { testKey: "test1-13", title: "لاستقبال المعجمي" },
-  { testKey: "test1-14", title: "انتاج المعجمي 1" },
-  { testKey: "test1-15", title: "انتاج المعجمي2" },
-  { testKey: "test1-16", title: "تكرار الكلمات" },
-  { testKey: "test1-17", title: "اختبار الفهم1" },
-  { testKey: "test1-18", title: "اختبار فهم 2" },
-  { testKey: "test1-19", title: "اختبار تكرار كلمات" }
+  { testKey: "test1-11", title: "اختبار الإدراك السمعي 4" },
+  { testKey: "test1-12", title: "اختبار الإدراك البصري 2" },
+  { testKey: "test1-13", title: "اختبار الاستقبال المعجمي" },
+  { testKey: "test1-14", title: "اختبار انتاج المعجمي 1" },
+  { testKey: "test1-15", title: "اختبار انتاج المعجمي 2" },
+  { testKey: "test1-16", title: "اختبار تكرار الكلمات" },
+  { testKey: "test1-17", title: "اختبار الفهم" },
+  { testKey: "test1-18", title: "اختبار إنتاج العبارات" },
+  { testKey: "test1-19", title: "اختبار تكرار العبارات" }
 ];
 
 export default function ChildrenResultsPage() {
