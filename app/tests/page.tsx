@@ -104,6 +104,13 @@ const tests = [
     resultsHref: "/children-results",
   },
   {
+    key: "test1-20",
+    title: "اختبار الإدراك البصري 1",
+    testKey: "اختبار الإدراك البصري 1",
+    startHref: "/test1-20/visual-perception-1",
+    resultsHref: "/children-results",
+  },
+  {
     key: "test1-12",
     title: "اختبار الإدراك البصري 2",
     external: true,

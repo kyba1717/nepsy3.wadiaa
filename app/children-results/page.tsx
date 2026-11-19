@@ -44,6 +44,7 @@ const ALL_TESTS = [
   { testKey: "test1-9", title: "اختبار الإدراك السمعي 2" },
   { testKey: "test1-10", title: "اختبار الإدراك السمعي 3" },
   { testKey: "test1-11", title: "اختبار الإدراك السمعي 4" },
+  { testKey: "اختبار الإدراك البصري 1", title: "اختبار الإدراك البصري 1" },
   { testKey: "test1-12", title: "اختبار الإدراك البصري 2" },
   { testKey: "test1-13", title: "اختبار الاستقبال المعجمي" },
   { testKey: "test1-14", title: "اختبار انتاج المعجمي 1" },
